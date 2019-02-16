@@ -20,4 +20,5 @@ Agrega en tu archivo POM lo siguiente.
     <groupId>WilliamValdez</groupId>
     <artifactId>JavaFxController</artifactId>
     <version>1.1</version>
-</dependency>```
+</dependency>
+```
