@@ -14,9 +14,10 @@ mvn install:install-file -Dfile="RUTA AL ARCHIVO JavaFxController-1.1.jar" -Dpom
 # Para agregarlo a tu proyecto de maven
 
 Agrega en tu archivo POM lo siguiente.
-´´´ <dependency>
+
+```bash
+<dependency>
     <groupId>WilliamValdez</groupId>
     <artifactId>JavaFxController</artifactId>
     <version>1.1</version>
-</dependency>
-´´´
+</dependency>```
